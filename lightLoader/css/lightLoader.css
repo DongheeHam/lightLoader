@@ -16,6 +16,7 @@
   to { -webkit-transform: rotate(360deg); }
 }
 #loader-container-x{
+	visibility: hidden;
 	position:fixed;
 	background:#00000031;
 	left:0px;
@@ -23,7 +24,7 @@
 	z-index:10000;
 	width: 100%;
 	height: 100%;
-	display: none;
+	display: flex;
 	justify-content: center;
 }
 #loader-container-y{
