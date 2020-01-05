@@ -25,3 +25,9 @@ lightLoading.show();
 
 ### loading hide(stop)
 lightLoading.hide();
+
+
+## 추가
+### ver 0.0.2 
+jquery를 사용하면 등장 애니메이션이 동작합니다.
+jquery가 없어도 무방하나 등장 애니메이션은 동작하지 않습니다.
