@@ -10,11 +10,11 @@ js, css합쳐서 60줄 내외입니다.
 
 ## 사용법
 
-###loading show(start)
+### loading show(start)
 
 lightLoading.show();
 
 
-###loading hide(stop)
+### loading hide(stop)
 
 lightLoading.hide();
